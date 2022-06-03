@@ -1,0 +1,27 @@
+REMARK  FOR INFORMATIONS, PLEASE CONTACT:                                             
+REMARK  ZOETE VINCENT                                                                 
+REMARK  VINCENT.ZOETE_AT_ISB-SIB.CH                                                   
+REMARK  SWISS INSTITUTE OF BIOINFORMATICS                                             
+REMARK  MOLECULAR MODELING GROUP                                                      
+REMARK  QUARTIER SORGE - BATIMENT GENOPODE                                            
+REMARK  CH-1015 LAUSANNE                                                              
+REMARK  SWITZERLAND                                                                   
+REMARK  T: +41 21 692 4082                                                            
+REMARK ****************************************************************               
+REMARK   DATE:     2/25/22      5:33: 0      CREATED BY USER: vzoete                  
+ATOM      1  C1  LIG     1      59.595  -4.287   1.322  1.00  0.00      LIG 
+ATOM      2  C2  LIG     1      60.344  -5.145   0.308  1.00  0.00      LIG 
+ATOM      3  O2  LIG     1      60.415  -6.370   0.447  1.00  0.00      LIG 
+ATOM      4  C3  LIG     1      61.015  -4.463  -0.869  1.00  0.00      LIG 
+ATOM      5  C4  LIG     1      60.123  -3.417  -1.529  1.00  0.00      LIG 
+ATOM      6  O5  LIG     1      59.096  -4.017  -2.304  1.00  0.00      LIG 
+ATOM      7  H01 LIG     1      58.603  -4.707   1.490  1.00  0.00      LIG 
+ATOM      8  H02 LIG     1      60.146  -4.270   2.262  1.00  0.00      LIG 
+ATOM      9  H03 LIG     1      59.499  -3.271   0.939  1.00  0.00      LIG 
+ATOM     10  H04 LIG     1      61.231  -5.229  -1.614  1.00  0.00      LIG 
+ATOM     11  H05 LIG     1      61.925  -3.976  -0.518  1.00  0.00      LIG 
+ATOM     12  H06 LIG     1      60.741  -2.814  -2.193  1.00  0.00      LIG 
+ATOM     13  H07 LIG     1      59.667  -2.800  -0.754  1.00  0.00      LIG 
+ATOM     14  H08 LIG     1      58.817  -4.836  -1.887  1.00  0.00      LIG 
+TER      15      LIG      1
+END
