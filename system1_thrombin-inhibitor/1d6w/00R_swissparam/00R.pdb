@@ -1,0 +1,79 @@
+REMARK  FOR INFORMATIONS, PLEASE CONTACT:                                             
+REMARK  ZOETE VINCENT                                                                 
+REMARK  VINCENT.ZOETE_AT_ISB-SIB.CH                                                   
+REMARK  SWISS INSTITUTE OF BIOINFORMATICS                                             
+REMARK  MOLECULAR MODELING GROUP                                                      
+REMARK  QUARTIER SORGE - BATIMENT GENOPODE                                            
+REMARK  CH-1015 LAUSANNE                                                              
+REMARK  SWITZERLAND                                                                   
+REMARK  T: +41 21 692 4082                                                            
+REMARK ****************************************************************               
+REMARK   DATE:     1/ 5/22      5:58:44      CREATED BY USER: vzoete                  
+ATOM      1  N   LIG     1      18.025 -16.134  23.137  1.00  0.00      LIG 
+ATOM      2  C6  LIG     1      19.144 -16.323  22.325  1.00  0.00      LIG 
+ATOM      3  N1  LIG     1      19.382 -15.120  21.661  1.00  0.00      LIG 
+ATOM      4  N2  LIG     1      18.399 -14.220  22.066  1.00  0.00      LIG 
+ATOM      5  C7  LIG     1      17.569 -14.827  22.999  1.00  0.00      LIG 
+ATOM      6  C13 LIG     1      12.034 -11.900  23.269  1.00  0.00      LIG 
+ATOM      7  N4  LIG     1      11.647 -12.827  24.248  1.00  0.00      LIG 
+ATOM      8  C14 LIG     1      10.793 -12.236  25.133  1.00  0.00      LIG 
+ATOM      9  N5  LIG     1      10.617 -10.975  24.798  1.00  0.00      LIG 
+ATOM     10  C15 LIG     1      11.444 -10.764  23.583  1.00  0.00      LIG 
+ATOM     11  C18 LIG     1      20.165 -16.075  25.862  1.00  0.00      LIG 
+ATOM     12  C19 LIG     1      20.181 -14.756  26.330  1.00  0.00      LIG 
+ATOM     13  C20 LIG     1      21.200 -13.893  25.943  1.00  0.00      LIG 
+ATOM     14  C21 LIG     1      22.210 -14.325  25.101  1.00  0.00      LIG 
+ATOM     15  C22 LIG     1      22.226 -15.630  24.634  1.00  0.00      LIG 
+ATOM     16  C23 LIG     1      21.207 -16.498  25.015  1.00  0.00      LIG 
+ATOM     17  H08 LIG     1      13.844 -12.250  22.716  1.00  0.00      LIG 
+ATOM     18  H28 LIG     1      23.026 -15.972  23.977  1.00  0.00      LIG 
+ATOM     19  H29 LIG     1      21.216 -17.525  24.651  1.00  0.00      LIG 
+ATOM     20  H01 LIG     1      12.745 -11.204  19.245  1.00  0.00      LIG 
+ATOM     21  H13 LIG     1      21.356 -12.990  19.774  1.00  0.00      LIG 
+ATOM     22  H26 LIG     1      21.204 -12.865  26.307  1.00  0.00      LIG 
+ATOM     23  H27 LIG     1      22.999 -13.634  24.803  1.00  0.00      LIG 
+ATOM     24  H11 LIG     1      20.910 -15.430  20.316  1.00  0.00      LIG 
+ATOM     25  H09 LIG     1      11.941 -10.364  21.346  1.00  0.00      LIG 
+ATOM     26  H04 LIG     1      14.126 -14.479  20.710  1.00  0.00      LIG 
+ATOM     27  H07 LIG     1      11.384 -13.206  21.032  1.00  0.00      LIG 
+ATOM     28  H06 LIG     1      12.249 -14.255  22.154  1.00  0.00      LIG 
+ATOM     29  H17 LIG     1      11.954 -13.788  24.291  1.00  0.00      LIG 
+ATOM     30  H05 LIG     1      12.981 -13.933  19.406  1.00  0.00      LIG 
+ATOM     31  H12 LIG     1      21.387 -14.633  21.861  1.00  0.00      LIG 
+ATOM     32  H03 LIG     1      14.922 -12.623  19.074  1.00  0.00      LIG 
+ATOM     33  H10 LIG     1      13.599 -10.060  21.974  1.00  0.00      LIG 
+ATOM     34  H02 LIG     1      14.189 -10.258  19.640  1.00  0.00      LIG 
+ATOM     35  H16 LIG     1      15.524 -11.899  21.875  1.00  0.00      LIG 
+ATOM     36  H15 LIG     1      18.068 -12.134  22.058  1.00  0.00      LIG 
+ATOM     37  H14 LIG     1      19.408 -11.630  20.045  1.00  0.00      LIG 
+ATOM     38  H25 LIG     1      19.394 -14.405  26.998  1.00  0.00      LIG 
+ATOM     39  H20 LIG     1       9.622 -12.526  26.776  1.00  0.00      LIG 
+ATOM     40  H19 LIG     1      10.506 -13.933  26.226  1.00  0.00      LIG 
+ATOM     41  H18 LIG     1      11.546  -9.824  23.040  1.00  0.00      LIG 
+ATOM     42  H21 LIG     1      16.861 -17.831  23.262  1.00  0.00      LIG 
+ATOM     43  H24 LIG     1      17.863 -18.920  25.004  1.00  0.00      LIG 
+ATOM     44  H23 LIG     1      19.235 -18.097  24.154  1.00  0.00      LIG 
+ATOM     45  H22 LIG     1      16.673 -16.659  24.624  1.00  0.00      LIG 
+ATOM     46  C   LIG     1      13.557 -11.086  19.962  1.00  0.00      LIG 
+ATOM     47  C1  LIG     1      14.446 -12.467  20.042  1.00  0.00      LIG 
+ATOM     48  C2  LIG     1      13.495 -13.675  20.332  1.00  0.00      LIG 
+ATOM     49  C3  LIG     1      12.352 -13.392  21.496  1.00  0.00      LIG 
+ATOM     50  C4  LIG     1      12.836 -12.068  22.343  1.00  0.00      LIG 
+ATOM     51  C5  LIG     1      12.945 -10.771  21.469  1.00  0.00      LIG 
+ATOM     52  O   LIG     1      19.809 -17.358  22.188  1.00  0.00      LIG 
+ATOM     53  O1  LIG     1      16.589 -14.344  23.561  1.00  0.00      LIG 
+ATOM     54  C8  LIG     1      20.636 -14.696  21.074  1.00  0.00      LIG 
+ATOM     55  C9  LIG     1      20.534 -13.351  20.393  1.00  0.00      LIG 
+ATOM     56  C10 LIG     1      19.423 -12.595  20.551  1.00  0.00      LIG 
+ATOM     57  C11 LIG     1      18.203 -12.961  21.361  1.00  0.00      LIG 
+ATOM     58  C12 LIG     1      16.924 -13.116  20.500  1.00  0.00      LIG 
+ATOM     59  O2  LIG     1      16.903 -13.847  19.237  1.00  0.00      LIG 
+ATOM     60  N3  LIG     1      15.587 -12.382  20.990  1.00  0.00      LIG 
+ATOM     61  N6  LIG     1      10.264 -12.957  26.126  1.00  0.00      LIG 
+ATOM     62  C16 LIG     1      17.370 -17.150  23.945  1.00  0.00      LIG 
+ATOM     63  C17 LIG     1      18.337 -17.969  24.759  1.00  0.00      LIG 
+ATOM     64  S   LIG     1      18.841 -17.180  26.281  1.00  0.00      LIG 
+ATOM     65  O3  LIG     1      17.672 -16.395  26.725  1.00  0.00      LIG 
+ATOM     66  O4  LIG     1      19.261 -18.234  27.191  1.00  0.00      LIG 
+TER      67      LIG      1
+END
