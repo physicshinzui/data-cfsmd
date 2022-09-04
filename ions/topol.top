@@ -1,0 +1,59 @@
+;
+;	File 'topol.top' was generated
+;	By user: q70269a (54306)
+;	On host: ito-1
+;	At date: Sat Sep  3 14:05:39 2022
+;
+;	This is a standalone topology file
+;
+;	Created by:
+;	                    :-) GROMACS - gmx pdb2gmx, 2020.6 (-:
+;	
+;	Executable:   /home/app/gromacs/2020.6/cpu/bin/gmx_mpi
+;	Data prefix:  /home/app/gromacs/2020.6/cpu
+;	Working dir:  /home/usr9/q70269a/cfsmd_ion_dissociation
+;	Command line:
+;	  gmx_mpi pdb2gmx -f nacl.pdb -o nacl_processed.gro -water tip3p
+;	Force field was read from the standard GROMACS share directory.
+;
+
+; Include forcefield parameters
+#include "amber99sb-ildn.ff/forcefield.itp"
+
+[ moleculetype ]
+; Name            nrexcl
+Ion                 3
+
+[ atoms ]
+;   nr       type  resnr residue  atom   cgnr     charge       mass  typeB    chargeB      massB
+; residue   1 NA  rtp NA   q +1.0
+     1         Na      1     NA     NA      1          1      22.99   ; qtot 1
+; residue   2 CL  rtp CL   q -1.0
+     2         Cl      2     CL     CL      2         -1      35.45   ; qtot 0
+
+; Include Position restraint file
+#ifdef POSRES
+#include "posre.itp"
+#endif
+
+; Include water topology
+#include "amber99sb-ildn.ff/tip3p.itp"
+
+#ifdef POSRES_WATER
+; Position restraint for each water oxygen
+[ position_restraints ]
+;  i funct       fcx        fcy        fcz
+   1    1       1000       1000       1000
+#endif
+
+; Include topology for ions
+#include "amber99sb-ildn.ff/ions.itp"
+
+[ system ]
+; Name
+Protein in water
+
+[ molecules ]
+; Compound        #mols
+Ion                 1
+SOL               882
