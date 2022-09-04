@@ -5,12 +5,11 @@ This repository stores:
 - The energy-minimised structure of each system (em.gro).
 - Ligand topology files (.itp)
 
-## System 1: FKBP with DMSO, DSS, and BUT
+## NaCl
 
-## System 2: HSP90
+## FKBP with DMSO, DSS, and BUT
 
-## System 3: Streptavidin-biotin
+## Trypsin-Benzamidine
 
-## System 4: Thrombin-inhibitor
+## Streptavidin-biotin
 
-Please cite: HERE
