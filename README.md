@@ -9,7 +9,5 @@ This repository stores:
 
 ## FKBP with DMSO, DSS, and BUT
 
-## Trypsin-Benzamidine
-
 ## Streptavidin-biotin
 
