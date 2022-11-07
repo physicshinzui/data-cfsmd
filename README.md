@@ -5,7 +5,7 @@ This repository stores the following data:
 - FKBP with DMSO, DSS, and BUT systems
 - Streptavidin-biotin system
 
-For each, the folloing files are provided:
+For each, the following files are provided:
 - The topology file for each system (.top). 
 - The energy-minimised structure of each system (em.gro).
 - Ligand topology files (.itp)
